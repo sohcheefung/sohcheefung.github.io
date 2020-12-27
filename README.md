@@ -1,3 +1,4 @@
 # sohcheefung.github.io
 My personal portfolio  
-For actual link, please visit http://sohcheefung.link
+Github pages https://sohcheefung.github.io/  
+For actual link with phpmailer, please visit http://sohcheefung.link
