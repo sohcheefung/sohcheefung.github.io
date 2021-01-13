@@ -118,7 +118,7 @@ header.sticky ul li a
     margin-bottom: 30px;
     color: #111;
 }
-.heading h2
+.heading h2,h3
 {
   font-weight: 600;
   font-size: 30px;
@@ -159,6 +159,11 @@ header.sticky ul li a
 .heading.white
 {
   color: #fff;
+}
+.heading.white.sub
+{
+  color: #fff;
+  margin-top: 30px;
 }
 .skills .content
 {
